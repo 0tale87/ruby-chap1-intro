@@ -166,6 +166,7 @@ maesakareinoMacBook-Pro:ruby-chap1-intro rei$ ruby comment_sample.rb
 体積=6000
 maesakareinoMacBook-Pro:ruby-chap1-intro rei$ ruby greater_smaller.rb
 greater
-
+maesakareinoMacBook-Pro:ruby-chap1-intro rei$ ruby greater_smaller_else.rb
+greater
 
 ```
